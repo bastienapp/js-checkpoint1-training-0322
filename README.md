@@ -1,4 +1,4 @@
-# Checkpoint 1 - JS
+# Checkpoint 1 - JS 03/22
 
 Ton premier checkpoint !
 
@@ -19,10 +19,11 @@ Tu ne dois pas en modifier la structure (ajouter/modifier des balises), mais tu 
 
 Modifie le fichier `/public/css/style.css`.
 
-***Astuces* :**
-* Les couleurs existent déjà dans le fichier de style
-* Toutes les marges devraient faire 0.5rem, 1rem ou 2rem
-* Aucune taille de police de caractère n'est à définir
+**_Astuces_ :**
+
+- Les couleurs existent déjà dans le fichier de style
+- Toutes les marges devraient faire 0.5rem, 1rem ou 2rem
+- Aucune taille de police de caractère n'est à définir
 
 Pour la version mobile, base toi sur la maquette suivante :
 
